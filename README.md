@@ -37,7 +37,7 @@ O Jogo do Marciano consiste de uma brincadeira de adivinhação mas ao mesmo tem
 <img src="images/segunda-tentativa.png" alt="primeira tentativa">
 
 <B>TERCEIRA TENTATIVA</B><br>
-<img src="images/tereira-tentativa.png" alt="segunda tentativa">
+<img src="images/terceira-tentativa.png" alt="segunda tentativa">
 
 <B>QUARTA TENTATIVA</B><br>   
 <img src="images/quarta-tentativa.png" alt="terceira tentativa">
