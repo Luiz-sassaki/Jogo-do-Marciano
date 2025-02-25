@@ -28,6 +28,32 @@ O Jogo do Marciano consiste de uma brincadeira de adivinhação mas ao mesmo tem
    java JogoDoMarciano.JogoDoMarcianoGUI
    ```
 
+   ## Modo de Uso
+
+<B>TELA INICIAL</B><br>
+<img src="image/primeira-tentativa.png" alt="tela inicial">
+
+<B>SEGUNDA TENTATIVA</B><br> 
+<img src="image/segunda-tentativa.png" alt="primeira tentativa">
+
+<B>TERCEIRA TENTATIVA</B><br>
+<img src="image/tereira-tentativa.png" alt="segunda tentativa">
+
+<B>QUARTA TENTATIVA</B><br>   
+<img src="image/quarta-tentativa.png" alt="terceira tentativa">
+
+<B>QUINTA TENTATIVA</B><br> 
+<img src="image/quinta-tentativa.png" alt="quarta tentativa">
+
+<B>SEXTA TENTATIVA</B><br> 
+<img src="image/sexta-tentativa.png" alt="quinta tentativa">
+
+<B>SÉTIMA TENTATIVA</B><br> 
+<img src="image/setima-tentativa.png" alt="sexta tentativa">
+
+<B>ENCONTROU O MARCIANO</B><br> 
+<img src="image/encontrou.png" alt="encontrou o marciano">
+
 
 
 ## Desenvolvedor
